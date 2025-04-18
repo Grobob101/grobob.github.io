@@ -4,20 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> 这个人很懒，什么都没留下，哦，不对，留了这个：https://blog.csdn.net/bobplease
+
+![image-20250418204703548](/Users/wgw-neox/Library/Application Support/typora-user-images/image-20250418204703548.png)
 
 
-# Timeline
-this is a demo
-- **2023**
-  - **02 / 01**: 写作语法示例
 
-- **2021**
-  - **04 / 01**: Enable Google Page Views
+![image-20250418204713020](/Users/wgw-neox/Library/Application Support/typora-user-images/image-20250418204713020.png)\
 
-- **2019**
-  - **11 / 08**: 自定义图标
-  - **09 / 08**: 准备开始
-  - **08 / 08**: 撰写新帖子
-  - **08 / 08**: 文本和排版
+![image-20250418204726459](/Users/wgw-neox/Library/Application Support/typora-user-images/image-20250418204726459.png)\
